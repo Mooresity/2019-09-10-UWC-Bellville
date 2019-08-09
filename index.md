@@ -175,7 +175,8 @@ Modify the block below if there are any barriers to accessibility or
 special instructions.
 {% endcomment %}
 <p id="accessibility">
-  <strong>Registration:</strong> Please complete the <a href="https://forms.gle/ytMzibWZQKXN8KTb7">registration form</a> . Limited space is available. Places will be allocated on a first come, first served principle.
+  <strong>Registration:</strong> 	Please complete the registration form at <a href="https://forms.gle/ytMzibWZQKXN8KTb7"> "https://forms.gle/ytMzibWZQKXN8KTb7". Limited space is available. Places will be allocated on a first come, first served principle.
+  
 </p>
 
 {% comment %}
